@@ -6,11 +6,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nova+Tegarr....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </div>
-
+<br>
   <div align="center">
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
-
+<br>
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
@@ -26,7 +26,7 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ XXXXXXXX ~ 📝</h2>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
@@ -37,7 +37,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼! ~ 💖</h2>
 <div align="center">
 <img src="https://i.imgur.com/tzYKRfd.gif">
 </div>
