@@ -17,7 +17,3 @@ When you stop learning, then that is when you have failed 👌🙌
   <br>
 
 </body>
-
-<p>
-    Have a nice day🙌
-  </p>
