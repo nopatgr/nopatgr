@@ -16,7 +16,8 @@ When you stop learning, then that is when you have failed 👌🙌
 <div>
   <br>
 
-  <p>
+</body>
+
+<p>
     Have a nice day🙌
   </p>
-</body>
