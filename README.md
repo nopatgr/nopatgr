@@ -15,4 +15,8 @@ When you stop learning, then that is when you have failed 👌🙌
 <br>
 <div>
   <br>
+
+  <p>
+    Have a nice day🙌
+  </p>
 </body>
